@@ -11,3 +11,6 @@ function func2() {
 function tolia() {
   h1.innerText = eval(h1.innerText);
 }
+function gamokleba() {
+  h1.innerText = h1.innerText - x;
+}
